@@ -1,6 +1,6 @@
-#AI That Learns To Play Briscola Using A Markov Decision Process
+# AI That Learns To Play Briscola Using A Markov Decision Process
 
-#DISCLAIMER
+# DISCLAIMER
 
 This AI uses some very rough approximations, and was made for fun instead
 of as a serious attempt to create a powerful Briscola AI. It's advised
